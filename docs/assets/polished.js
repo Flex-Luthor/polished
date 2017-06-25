@@ -169,7 +169,7 @@ var pxtoFactory$1 = function pxtoFactory$1(to) {
  */
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var em = /*#__PURE__*/pxtoFactory$1('em');
+var em = /*#__PURE__*/pxtoFactory$1('em'); // eslint-disable-line spaced-comment
 
 //      
 
@@ -264,7 +264,7 @@ function modularScale(steps) {
  */
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var rem = /*#__PURE__*/pxtoFactory$1('rem');
+var rem = /*#__PURE__*/pxtoFactory$1('rem'); // eslint-disable-line spaced-comment
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) {
   return typeof obj;
@@ -1872,7 +1872,7 @@ function adjustHue(degree, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedAdjustHue = /*#__PURE__*/curry(adjustHue);
+var curriedAdjustHue = /*#__PURE__*/curry(adjustHue); // eslint-disable-line spaced-comment
 
 //      
 
@@ -1944,7 +1944,7 @@ function darken(amount, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedDarken = /*#__PURE__*/curry(darken);
+var curriedDarken = /*#__PURE__*/curry(darken); // eslint-disable-line spaced-comment
 
 //      
 
@@ -1980,7 +1980,7 @@ function desaturate(amount, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedDesaturate = /*#__PURE__*/curry(desaturate);
+var curriedDesaturate = /*#__PURE__*/curry(desaturate); // eslint-disable-line spaced-comment
 
 //      
 
@@ -2080,7 +2080,7 @@ function lighten(amount, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedLighten = /*#__PURE__*/curry(lighten);
+var curriedLighten = /*#__PURE__*/curry(lighten); // eslint-disable-line spaced-comment
 
 //      
 
@@ -2150,7 +2150,7 @@ function mix() {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedMix = /*#__PURE__*/curry(mix);
+var curriedMix = /*#__PURE__*/curry(mix); // eslint-disable-line spaced-comment
 
 //      
 /**
@@ -2190,7 +2190,7 @@ function opacify(amount, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedOpacify = /*#__PURE__*/curry(opacify);
+var curriedOpacify = /*#__PURE__*/curry(opacify); // eslint-disable-line spaced-comment
 
 //      
 
@@ -2227,7 +2227,7 @@ function saturate(amount, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedSaturate = /*#__PURE__*/curry(saturate);
+var curriedSaturate = /*#__PURE__*/curry(saturate); // eslint-disable-line spaced-comment
 
 //      
 
@@ -2261,7 +2261,7 @@ function setHue(hue, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedSetHue = /*#__PURE__*/curry(setHue);
+var curriedSetHue = /*#__PURE__*/curry(setHue); // eslint-disable-line spaced-comment
 
 //      
 
@@ -2295,7 +2295,7 @@ function setLightness(lightness, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedSetLightness = /*#__PURE__*/curry(setLightness);
+var curriedSetLightness = /*#__PURE__*/curry(setLightness); // eslint-disable-line spaced-comment
 
 //      
 
@@ -2329,7 +2329,7 @@ function setSaturation(saturation, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedSetSaturation = /*#__PURE__*/curry(setSaturation);
+var curriedSetSaturation = /*#__PURE__*/curry(setSaturation); // eslint-disable-line spaced-comment
 
 //      
 
@@ -2363,7 +2363,7 @@ function shade(percentage, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedShade = /*#__PURE__*/curry(shade);
+var curriedShade = /*#__PURE__*/curry(shade); // eslint-disable-line spaced-comment
 
 //      
 
@@ -2397,7 +2397,7 @@ function tint(percentage, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedTint = /*#__PURE__*/curry(tint);
+var curriedTint = /*#__PURE__*/curry(tint); // eslint-disable-line spaced-comment
 
 //      
 /**
@@ -2437,7 +2437,7 @@ function transparentize(amount, color) {
 }
 
 // Don’t inline this variable into export because Rollup will remove the /*#__PURE__*/ comment
-var curriedTransparentize = /*#__PURE__*/curry(transparentize);
+var curriedTransparentize = /*#__PURE__*/curry(transparentize); // eslint-disable-line spaced-comment
 
 //      
 
